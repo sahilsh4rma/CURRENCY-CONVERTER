@@ -4,6 +4,12 @@
 
 A simple currency converter web application that allows users to convert between different currencies.
 
+## Features:
+
+- Real-time exchange rates
+- User-friendly interface
+- Country flag display for currencies
+
 ## Project Structure
 
 - **index.html**: The main HTML file containing the structure of the web page.
